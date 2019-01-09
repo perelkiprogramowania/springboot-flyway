@@ -1,0 +1,1 @@
+﻿ALTER TABLE test_table ADD new_column VARCHAR(40);
